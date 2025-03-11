@@ -1,0 +1,36 @@
+#+TITLE: Projet VR / Notes de projet
+
+* Idées
++ Les espaces de jeu sont relativement petits, mais n'ont pas besoin d'être statiques. On peut passer d'un appartement simple à un petit espace en mouvement :
+  + Intérieur d'un véhicule
+  + Poste de contrôle d'un TEC (train/tram)
+  + Poste d'observation sur un terrain plus grand
+  
+* Types de jeu possibles
+Jeu narratif (aventure / horreur)
+Jeu de gestion (Densha De GO!)
+
+
+
+* Idées de jeu
+
+** Idée 1
+Le joueur incarne un technicien, travaillant pour une compagnie ferrovière <>. On peut explorer un réseau de stations desaffectées (ou non) durant la nuit.
+Le train tombe en panne, et le joueur doit trouver un moyen de repartir, ou de réchapper de qqch.
+
+La zone de jeu est cantonnée à l'intérieur de la cabine du conducteur. Des arguments du scénario (train de nuit), réseau abandonné, peuvent expliquer la situation, et masquer la nécessité d'un petit espace.
+
+*** Mécaniques
+Les mécaniques 
+
+*** References
++ [[https://en.wikipedia.org/wiki/Kisaragi_Station][Station de Kisaragi]]
+
+
+*** Images
+| [[./Images/Conductor1.jpg]] | [[./Images/Railway1.jpg]] |
+| [[./Images/Infra1.jpg]]     | [[./Images/Cabin1.jpg]]   |
+| [[./Images/Cabin2.jpg]]     | [[./Images/Station1.jpg]] |
+
+* Moodboards
+
