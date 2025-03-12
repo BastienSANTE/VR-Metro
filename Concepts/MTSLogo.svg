@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.387726mm"
+   height="23.089844mm"
+   viewBox="0 0 67.387726 23.089844"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-3.4472656)">
+    <g
+       id="path1">
+      <path
+         style="fill:#ffffff;paint-order:fill markers stroke"
+         d="M 6.7547304,23.088897 V 7.1231704 l 14.8911106,-9.6e-6 c 3.365374,0 6.686246,2.6311588 6.686246,7.2398152 l 3e-6,8.725915"
+         id="path9" />
+      <path
+         style="fill:#07b882;paint-order:fill markers stroke"
+         d="M 3.4472656,3.8164063 V 13.690708 L 10.0625,23.089844 V 10.429688 h 12.278721 c 1.641542,0 2.68417,0.40574 2.68417,2.644054 v 10.016102 h 6.613281 V 13.073742 c 0,-6.1974194 -4.902981,-9.2573357 -9.992188,-9.2573357 z"
+         id="path10" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#07b882;stroke-width:6.61458;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 17.54341,7.123164 V 23.08889"
+       id="path4" />
+    <path
+       style="fill:#ffffff;stroke:#07b882;stroke-width:6.61458;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 21.645841,7.1231608 H 49.760526"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#07b882;stroke-width:6.61458;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 39.010474,0 v 14.624386 c 0,2.952685 2.254521,5.148545 5.720468,5.148545 h 7.609793"
+       id="path6" />
+    <path
+       style="fill:#07b882;paint-order:fill markers stroke"
+       d="m 58.304687,3.8164063 c -3.819823,0 -6.251394,4.6830292 -4.052734,7.8066407 l 3.408203,4.841797 H 47.28125 v 6.615234 h 13.576172 c 3.819823,-2e-6 6.251394,-4.683029 4.052734,-7.80664 L 61.5,10.429688 H 71.878906 L 67.211143,3.8164063 Z"
+       id="path7"
+       transform="translate(-1.0439129)" />
+  </g>
+</svg>
